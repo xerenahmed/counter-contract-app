@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"counter-app/contract"
+	"counter_app/contract"
 	"flag"
 	"log"
 	"math/big"

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"counter-app/contract"
+	"counter_app/contract"
 	"fmt"
 	"log"
 	"os"

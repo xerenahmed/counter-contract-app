@@ -1,4 +1,4 @@
-module counter-app
+module counter_app
 
 go 1.17
 
